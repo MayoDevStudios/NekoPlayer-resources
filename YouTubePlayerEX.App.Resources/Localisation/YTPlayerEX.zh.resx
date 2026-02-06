@@ -244,4 +244,195 @@
   <data name="renderer" xml:space="preserve">
     <value>渲染器</value>
   </data>
+  <data name="export_logs" xml:space="preserve">
+    <value>导出日志</value>
+  </data>
+  <data name="logs_export_finished" xml:space="preserve">
+    <value>导出日志！</value>
+  </data>
+  <data name="revert_to_default" xml:space="preserve">
+    <value>恢复为默认值</value>
+  </data>
+  <data name="playback_speed_without_value" xml:space="preserve">
+    <value>播放速度</value>
+  </data>
+  <data name="quick_action" xml:space="preserve">
+    <value>快速操作</value>
+  </data>
+  <data name="caption_font" xml:space="preserve">
+    <value>隐藏字幕</value>
+  </data>
+  <data name="dislike_count_tooltip" xml:space="preserve">
+    <value>估计数: {0} | 实际: {1}</value>
+  </data>
+  <data name="caption_auto_gen" xml:space="preserve">
+    <value>{0} (自动生成)</value>
+  </data>
+  <data name="scale_video" xml:space="preserve">
+    <value>视频</value>
+    <comment>scale_video</comment>
+  </data>
+  <data name="scale_everything" xml:space="preserve">
+    <value>全部内容</value>
+  </data>
+  <data name="scaling_off" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="screen_scaling" xml:space="preserve">
+    <value>屏幕缩放</value>
+  </data>
+  <data name="horizontal_position" xml:space="preserve">
+    <value>水平位置</value>
+  </data>
+  <data name="vertical_position" xml:space="preserve">
+    <value>垂直位置</value>
+  </data>
+  <data name="horizontal_scale" xml:space="preserve">
+    <value>水平缩放</value>
+  </data>
+  <data name="vertical_scale" xml:space="preserve">
+    <value>垂直缩放</value>
+  </data>
+  <data name="thumbnail_dim" xml:space="preserve">
+    <value>Thumbnail dim</value>
+  </data>
+  <data name="shrink_game_to_safe_area" xml:space="preserve">
+    <value>收缩应用以避免摄像头和节点的使用</value>
+  </data>
+  <data name="username_display_mode" xml:space="preserve">
+    <value>用户名显示模式</value>
+  </data>
+  <data name="jpg_web_friendly" xml:space="preserve">
+    <value>JPG (网络友好)</value>
+  </data>
+  <data name="png_lossless" xml:space="preserve">
+    <value>PNG (无损)</value>
+  </data>
+  <data name="screenshot_saved" xml:space="preserve">
+    <value>屏幕截图已保存！</value>
+  </data>
+  <data name="screenshot" xml:space="preserve">
+    <value>屏幕截图</value>
+  </data>
+  <data name="screenshot_format" xml:space="preserve">
+    <value>截图格式</value>
+  </data>
+  <data name="show_cursor_in_screenshots" xml:space="preserve">
+    <value>在屏幕截图中显示用户界面</value>
+  </data>
+  <data name="username_display_mode_nickname" xml:space="preserve">
+    <value>偏好显示用户名(2005~2022)</value>
+  </data>
+  <data name="username_display_mode_handle" xml:space="preserve">
+    <value>喜欢显示句柄(2022~现在)</value>
+  </data>
+  <data name="comment_added" xml:space="preserve">
+    <value>评论已添加。</value>
+  </data>
+  <data name="comment_with" xml:space="preserve">
+    <value>使用 {0} 写评论</value>
+  </data>
+  <data name="signed_in" xml:space="preserve">
+    <value>登录到 {0}</value>
+  </data>
+  <data name="signed_out" xml:space="preserve">
+    <value>未登录</value>
+  </data>
+  <data name="google_account" xml:space="preserve">
+    <value>Google账户</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="search_placeholder" xml:space="preserve">
+    <value>搜索...</value>
+  </data>
+  <data name="view_latest_versions" xml:space="preserve">
+    <value>查看最新版本</value>
+  </data>
+  <data name="report" xml:space="preserve">
+    <value>报告</value>
+  </data>
+  <data name="whats_going_on" xml:space="preserve">
+    <value>怎么办？</value>
+  </data>
+  <data name="report_desc" xml:space="preserve">
+    <value>我们将检查所有的社区指南，因此不要担心做出完美的选择。</value>
+  </data>
+  <data name="submit" xml:space="preserve">
+    <value>提交</value>
+  </data>
+  <data name="report_success" xml:space="preserve">
+    <value>感谢您的提交。</value>
+  </data>
+  <data name="description" xml:space="preserve">
+    <value>描述</value>
+  </data>
+  <data name="report_reason" xml:space="preserve">
+    <value>原因</value>
+  </data>
+  <data name="report_sub_reason" xml:space="preserve">
+    <value>详细原因</value>
+  </data>
+  <data name="windowed" xml:space="preserve">
+    <value>窗口化</value>
+  </data>
+  <data name="borderless" xml:space="preserve">
+    <value>无边框</value>
+  </data>
+  <data name="fullscreen" xml:space="preserve">
+    <value>全屏</value>
+  </data>
+  <data name="vertical_sync" xml:space="preserve">
+    <value>VSync</value>
+  </data>
+  <data name="refresh_rate_2x" xml:space="preserve">
+    <value>2倍刷新率</value>
+  </data>
+  <data name="refresh_rate_4x" xml:space="preserve">
+    <value>4倍刷新率</value>
+  </data>
+  <data name="refresh_rate_8x" xml:space="preserve">
+    <value>8倍刷新率</value>
+  </data>
+  <data name="unlimited" xml:space="preserve">
+    <value>基本无限制</value>
+  </data>
+  <data name="dislike_counter_credits_1" xml:space="preserve">
+    <value>折扣计数数据由 </value>
+  </data>
+  <data name="dislike_counter_credits_2" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="mocha_chan_labs" xml:space="preserve">
+    <value>莫查-chan的实验室</value>
+  </data>
+  <data name="crt_effect" xml:space="preserve">
+    <value>CRT 特效</value>
+  </data>
+  <data name="pixel_effect" xml:space="preserve">
+    <value>像素效果</value>
+  </data>
+  <data name="mocha_chan_labs_desc" xml:space="preserve">
+    <value>以下功能是实验性的，将来可能会被删除或移动。</value>
+  </data>
+  <data name="pixel_size" xml:space="preserve">
+    <value>像素大小</value>
+  </data>
+  <data name="always_use_original_audio" xml:space="preserve">
+    <value>总是使用原始音频</value>
+  </data>
+  <data name="no_description" xml:space="preserve">
+    <value>未添加描述到此视频。</value>
+  </data>
+  <data name="view_version_desc" xml:space="preserve">
+    <value>View changelog for {0}</value>
+    <comment>view_version_desc</comment>
+  </data>
+  <data name="render_type_automatic" xml:space="preserve">
+    <value>Automatic</value>
+  </data>
+  <data name="render_type_automatic_is_use" xml:space="preserve">
+    <value>Automatic ({0})</value>
+  </data>
 </root>
