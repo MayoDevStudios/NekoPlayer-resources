@@ -1,2 +1,2 @@
 # YouTubePlayerEX-resources
-assets used by YouTube Player EX
+Assets used by YouTube Player EX.
