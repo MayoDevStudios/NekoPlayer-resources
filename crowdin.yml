@@ -1,0 +1,23 @@
+preserve_hierarchy: true
+files:
+  - source: /YouTubePlayerEX.App.Resources/Localisation/**/*.resx
+    translation: /YouTubePlayerEX.App.Resources/Localisation/**/%file_name%.%locale%.%file_extension%
+    ignore:
+      # note that this should probably be using %locale% rather than a simple wildcard
+      # but it doesn't seem to respect our mapping below.
+      - /YouTubePlayerEX.App.Resources/Localisation/**/%file_name%.*.%file_extension%
+    update_option: update_as_unapproved
+    languages_mapping:
+      locale:
+        es-ES: es
+        fr: fr
+        it: it
+        ja: ja
+        ko: ko
+        nl: nl
+        pt-PT: pt
+        ru: ru
+        tr: tr
+        vi: vi
+        zh-CN: zh
+        zh-TW: zh-Hant
