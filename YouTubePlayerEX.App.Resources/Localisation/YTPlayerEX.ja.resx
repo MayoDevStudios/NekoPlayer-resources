@@ -244,4 +244,195 @@
   <data name="renderer" xml:space="preserve">
     <value>レンダラー</value>
   </data>
+  <data name="export_logs" xml:space="preserve">
+    <value>ログをエクスポートする</value>
+  </data>
+  <data name="logs_export_finished" xml:space="preserve">
+    <value>ログをエクスポートしました!</value>
+  </data>
+  <data name="revert_to_default" xml:space="preserve">
+    <value>デフォルトに戻す</value>
+  </data>
+  <data name="playback_speed_without_value" xml:space="preserve">
+    <value>再生速度</value>
+  </data>
+  <data name="quick_action" xml:space="preserve">
+    <value>クイックアクション</value>
+  </data>
+  <data name="caption_font" xml:space="preserve">
+    <value>クローズドキャプションフォント</value>
+  </data>
+  <data name="dislike_count_tooltip" xml:space="preserve">
+    <value>推定値：{0} |実際の値：{1}</value>
+  </data>
+  <data name="caption_auto_gen" xml:space="preserve">
+    <value>{0}（自動生成）</value>
+  </data>
+  <data name="scale_video" xml:space="preserve">
+    <value>ビデオ</value>
+    <comment>scale_video</comment>
+  </data>
+  <data name="scale_everything" xml:space="preserve">
+    <value>すべて</value>
+  </data>
+  <data name="scaling_off" xml:space="preserve">
+    <value>オフ</value>
+  </data>
+  <data name="screen_scaling" xml:space="preserve">
+    <value>画面の拡大縮小</value>
+  </data>
+  <data name="horizontal_position" xml:space="preserve">
+    <value>水平方向の位置</value>
+  </data>
+  <data name="vertical_position" xml:space="preserve">
+    <value>垂直位置</value>
+  </data>
+  <data name="horizontal_scale" xml:space="preserve">
+    <value>水平方向のスケール</value>
+  </data>
+  <data name="vertical_scale" xml:space="preserve">
+    <value>垂直方向のスケール</value>
+  </data>
+  <data name="thumbnail_dim" xml:space="preserve">
+    <value>Thumbnail dim</value>
+  </data>
+  <data name="shrink_game_to_safe_area" xml:space="preserve">
+    <value>カメラやノッチを避けるためにアプリを縮小する</value>
+  </data>
+  <data name="username_display_mode" xml:space="preserve">
+    <value>ユーザー名表示モード</value>
+  </data>
+  <data name="jpg_web_friendly" xml:space="preserve">
+    <value>JPG (ウェブフレンドリー)</value>
+  </data>
+  <data name="png_lossless" xml:space="preserve">
+    <value>PNG (ロスレス)</value>
+  </data>
+  <data name="screenshot_saved" xml:space="preserve">
+    <value>スクリーンショットを保存しました！</value>
+  </data>
+  <data name="screenshot" xml:space="preserve">
+    <value>スクリーンショット</value>
+  </data>
+  <data name="screenshot_format" xml:space="preserve">
+    <value>スクリーンショットの形式</value>
+  </data>
+  <data name="show_cursor_in_screenshots" xml:space="preserve">
+    <value>スクリーンショットにユーザーインターフェイスを表示する</value>
+  </data>
+  <data name="username_display_mode_nickname" xml:space="preserve">
+    <value>ユーザー名を優先（2005年~2022年）</value>
+  </data>
+  <data name="username_display_mode_handle" xml:space="preserve">
+    <value>ディスプレイハンドルを優先 (2022~今)</value>
+  </data>
+  <data name="comment_added" xml:space="preserve">
+    <value>コメントを追加しました。</value>
+  </data>
+  <data name="comment_with" xml:space="preserve">
+    <value>{0} でコメントを書く</value>
+  </data>
+  <data name="signed_in" xml:space="preserve">
+    <value>{0} にサインインしました</value>
+  </data>
+  <data name="signed_out" xml:space="preserve">
+    <value>ログインしていません</value>
+  </data>
+  <data name="google_account" xml:space="preserve">
+    <value>Google アカウント</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="search_placeholder" xml:space="preserve">
+    <value>検索...</value>
+  </data>
+  <data name="view_latest_versions" xml:space="preserve">
+    <value>最新バージョンを表示</value>
+  </data>
+  <data name="report" xml:space="preserve">
+    <value>レポート</value>
+  </data>
+  <data name="whats_going_on" xml:space="preserve">
+    <value>何が起きているのか？</value>
+  </data>
+  <data name="report_desc" xml:space="preserve">
+    <value>すべてのコミュニティガイドラインをチェックしますので、最適な選択を心配する必要はありません。</value>
+  </data>
+  <data name="submit" xml:space="preserve">
+    <value>送信</value>
+  </data>
+  <data name="report_success" xml:space="preserve">
+    <value>提出ありがとうございます。</value>
+  </data>
+  <data name="description" xml:space="preserve">
+    <value>説明</value>
+  </data>
+  <data name="report_reason" xml:space="preserve">
+    <value>理由：</value>
+  </data>
+  <data name="report_sub_reason" xml:space="preserve">
+    <value>詳細な理由</value>
+  </data>
+  <data name="windowed" xml:space="preserve">
+    <value>ウィンドウ</value>
+  </data>
+  <data name="borderless" xml:space="preserve">
+    <value>ボーダレス</value>
+  </data>
+  <data name="fullscreen" xml:space="preserve">
+    <value>全画面</value>
+  </data>
+  <data name="vertical_sync" xml:space="preserve">
+    <value>VSync</value>
+  </data>
+  <data name="refresh_rate_2x" xml:space="preserve">
+    <value>リフレッシュレート</value>
+  </data>
+  <data name="refresh_rate_4x" xml:space="preserve">
+    <value>リフレッシュレート</value>
+  </data>
+  <data name="refresh_rate_8x" xml:space="preserve">
+    <value>8x リフレッシュレート</value>
+  </data>
+  <data name="unlimited" xml:space="preserve">
+    <value>基本的に無制限です</value>
+  </data>
+  <data name="dislike_counter_credits_1" xml:space="preserve">
+    <value>低評価数データは</value>
+  </data>
+  <data name="dislike_counter_credits_2" xml:space="preserve">
+    <value>によって提供されています。</value>
+  </data>
+  <data name="mocha_chan_labs" xml:space="preserve">
+    <value>モカちゃん研究所</value>
+  </data>
+  <data name="crt_effect" xml:space="preserve">
+    <value>CRTエフェクト</value>
+  </data>
+  <data name="pixel_effect" xml:space="preserve">
+    <value>Pixel エフェクト</value>
+  </data>
+  <data name="mocha_chan_labs_desc" xml:space="preserve">
+    <value>以下の機能は実験的なもので、将来的に削除または移動される可能性があります。</value>
+  </data>
+  <data name="pixel_size" xml:space="preserve">
+    <value>ピクセルサイズ</value>
+  </data>
+  <data name="always_use_original_audio" xml:space="preserve">
+    <value>常に元の音声を使用する</value>
+  </data>
+  <data name="no_description" xml:space="preserve">
+    <value>この動画に説明が追加されていません。</value>
+  </data>
+  <data name="view_version_desc" xml:space="preserve">
+    <value>View changelog for {0}</value>
+    <comment>view_version_desc</comment>
+  </data>
+  <data name="render_type_automatic" xml:space="preserve">
+    <value>Automatic</value>
+  </data>
+  <data name="render_type_automatic_is_use" xml:space="preserve">
+    <value>Automatic ({0})</value>
+  </data>
 </root>
