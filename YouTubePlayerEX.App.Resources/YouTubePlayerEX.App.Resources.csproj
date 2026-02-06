@@ -16,7 +16,7 @@
 		<RepositoryUrl>https://github.com/BoomboxRapsody/YouTubePlayerEX-resources</RepositoryUrl>
 		<PackageReleaseNotes>Automated release.</PackageReleaseNotes>
 		<copyright>Copyright (c) 2026 BoomboxRapsody</copyright>
-		<PackageTags>youtubeplayerex app resources</PackageTags>
+		<PackageTags>YouTubePlayerEX app resources</PackageTags>
   </PropertyGroup>
   <ItemGroup>
     <EmbeddedResource Include="Fonts\**\*" />
