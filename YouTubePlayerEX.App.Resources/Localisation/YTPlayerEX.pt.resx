@@ -435,4 +435,7 @@
   <data name="render_type_automatic_is_use" xml:space="preserve">
     <value>Automatic ({0})</value>
   </data>
+  <data name="use_system_cursor" xml:space="preserve">
+    <value>Always use system cursor</value>
+  </data>
 </root>
