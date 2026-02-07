@@ -423,4 +423,13 @@
   <data name="use_system_cursor" xml:space="preserve">
     <value>Always use system cursor</value>
   </data>
+  <data name="wasapi_label" xml:space="preserve">
+    <value>Use experimental audio mode</value>
+  </data>
+  <data name="wasapi_tooltip" xml:space="preserve">
+    <value>This will attempt to initialise the audio engine in a lower latency mode.</value>
+  </data>
+  <data name="output_device" xml:space="preserve">
+    <value>Output device</value>
+  </data>
 </root>
