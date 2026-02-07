@@ -432,4 +432,7 @@
   <data name="output_device" xml:space="preserve">
     <value>Output device</value>
   </data>
+  <data name="volume" xml:space="preserve">
+    <value>Volume</value>
+  </data>
 </root>
