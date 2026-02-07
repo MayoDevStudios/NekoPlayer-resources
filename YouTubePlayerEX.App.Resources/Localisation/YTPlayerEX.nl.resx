@@ -404,21 +404,6 @@
   <data name="dislike_counter_credits_2" xml:space="preserve">
     <value>.</value>
   </data>
-  <data name="mocha_chan_labs" xml:space="preserve">
-    <value>Mocha-kanaal's Labs</value>
-  </data>
-  <data name="crt_effect" xml:space="preserve">
-    <value>CRT Effect</value>
-  </data>
-  <data name="pixel_effect" xml:space="preserve">
-    <value>Pixel Effect</value>
-  </data>
-  <data name="mocha_chan_labs_desc" xml:space="preserve">
-    <value>De volgende functies zijn experimenteel en kunnen in de toekomst verwijderd of verplaatst worden.</value>
-  </data>
-  <data name="pixel_size" xml:space="preserve">
-    <value>Pixel grootte</value>
-  </data>
   <data name="always_use_original_audio" xml:space="preserve">
     <value>Gebruik altijd originele audio</value>
   </data>
