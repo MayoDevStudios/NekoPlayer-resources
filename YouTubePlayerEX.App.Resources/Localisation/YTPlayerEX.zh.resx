@@ -435,4 +435,19 @@
   <data name="volume" xml:space="preserve">
     <value>Volume</value>
   </data>
+  <data name="debug" xml:space="preserve">
+    <value>Debug</value>
+  </data>
+  <data name="show_log_overlay" xml:space="preserve">
+    <value>Show log overlay</value>
+  </data>
+  <data name="bypass_ftb_render_pass" xml:space="preserve">
+    <value>Bypass front-to-back render pass</value>
+  </data>
+  <data name="gc_mode" xml:space="preserve">
+    <value>GC mode</value>
+  </data>
+  <data name="clear_all_caches" xml:space="preserve">
+    <value>Clear all caches</value>
+  </data>
 </root>
