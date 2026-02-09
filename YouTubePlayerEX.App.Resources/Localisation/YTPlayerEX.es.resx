@@ -122,13 +122,13 @@
     <value>Volumen general</value>
   </data>
   <data name="minimise_on_focus_loss" xml:space="preserve">
-    <value>Minimiza el reproductor de vídeo al cambiar a otra aplicación</value>
+    <value>Minimizar el reproductor de vídeo al cambiar a otra aplicación</value>
   </data>
   <data name="prefer_high_quality" xml:space="preserve">
     <value>Alta calidad preferida</value>
   </data>
   <data name="adjust_pitch_on_speed_change" xml:space="preserve">
-    <value>Ajustar tono al cambiar velocidad</value>
+    <value>Ajustar el tono al cambiar la velocidad</value>
   </data>
   <data name="profile_image_tooltip" xml:space="preserve">
     <value>{0} • {1} suscriptores • Haga clic para ver el canal a través del navegador web externo.</value>
@@ -152,7 +152,7 @@
     <value>Volumen SFX</value>
   </data>
   <data name="ui_scaling" xml:space="preserve">
-    <value>Escala de IU</value>
+    <value>Escalado de la interfaz</value>
   </data>
   <data name="use_hardware_acceleration" xml:space="preserve">
     <value>Usar aceleración de hardware</value>
@@ -161,10 +161,10 @@
     <value>Vídeo</value>
   </data>
   <data name="video_metadata_desc" xml:space="preserve">
-    <value>{0} • {1} vistas • {2}</value>
+    <value>{0} • {1} visitas • {2}</value>
   </data>
   <data name="video_metadata_desc_without_channel_name" xml:space="preserve">
-    <value>{0} vistas  {1}</value>
+    <value>{0} visitas {1}</value>
   </data>
   <data name="video_metadata_translate_source" xml:space="preserve">
     <value>Fuente de traducción de metadatos de vídeo</value>
@@ -212,13 +212,13 @@
     <value>Buscar actualizaciones</value>
   </data>
   <data name="like_count_hidden" xml:space="preserve">
-    <value>Como contador oculto por el cargador</value>
+    <value>Contador de likes ocultado por el usuario</value>
   </data>
   <data name="disabled_by_uploader" xml:space="preserve">
-    <value>Desactivado por el cargador</value>
+    <value>Desactivado por el usuario</value>
   </data>
   <data name="dislike_counter_credits" xml:space="preserve">
-    <value>Los datos del recuento de disgusto son proporcionados por la API Return YouTube Dislike.</value>
+    <value>Los datos de recuento de dislikes es proveído por la API de Return YouTube Dislike.</value>
   </data>
   <data name="common_default" xml:space="preserve">
     <value>Por defecto</value>
@@ -230,7 +230,7 @@
     <value>No se pueden reproducir vídeos privados.</value>
   </data>
   <data name="play" xml:space="preserve">
-    <value>Jugar</value>
+    <value>Reproducir</value>
   </data>
   <data name="pause" xml:space="preserve">
     <value>Pausa</value>
@@ -251,7 +251,7 @@
     <value>¡Registros exportados!</value>
   </data>
   <data name="revert_to_default" xml:space="preserve">
-    <value>Revertir por defecto</value>
+    <value>Revertir al valor por defecto</value>
   </data>
   <data name="playback_speed_without_value" xml:space="preserve">
     <value>Velocidad de reproducción</value>
@@ -260,13 +260,13 @@
     <value>Acción rápida</value>
   </data>
   <data name="caption_font" xml:space="preserve">
-    <value>Leyenda cerrada</value>
+    <value>Fuente de los subtítulos cerrados</value>
   </data>
   <data name="dislike_count_tooltip" xml:space="preserve">
     <value>Estimado: {0} | Actual: {1}</value>
   </data>
   <data name="caption_auto_gen" xml:space="preserve">
-    <value>{0} (auto-generado)</value>
+    <value>{0} (generado automáticamente)</value>
   </data>
   <data name="scale_video" xml:space="preserve">
     <value>Vídeo</value>
@@ -300,7 +300,7 @@
     <value>Contraer aplicación para evitar cámaras y notches</value>
   </data>
   <data name="username_display_mode" xml:space="preserve">
-    <value>Modo mostrar nombre de usuario</value>
+    <value>Modo de visualización del nombre de usuario</value>
   </data>
   <data name="jpg_web_friendly" xml:space="preserve">
     <value>JPG (amigable)</value>
@@ -309,7 +309,7 @@
     <value>PNG (sin pérdida)</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
-    <value>Captura de pantalla guardada!</value>
+    <value>¡Captura de pantalla guardada!</value>
   </data>
   <data name="screenshot" xml:space="preserve">
     <value>Captura de pantalla</value>
@@ -321,19 +321,19 @@
     <value>Mostrar interfaz de usuario en capturas de pantalla</value>
   </data>
   <data name="username_display_mode_nickname" xml:space="preserve">
-    <value>Nombre de usuario preferido (2005~2022)</value>
+    <value>Mostrar nombre de usuario (2005~2022)</value>
   </data>
   <data name="username_display_mode_handle" xml:space="preserve">
-    <value>Preferir asa de pantalla (2022~ahora)</value>
+    <value>Mostrar él arroba del usuario (2022~ahora)</value>
   </data>
   <data name="comment_added" xml:space="preserve">
     <value>Comentario añadido.</value>
   </data>
   <data name="comment_with" xml:space="preserve">
-    <value>Escribe un comentario con {0}</value>
+    <value>Escribe un comentario como {0}</value>
   </data>
   <data name="signed_in" xml:space="preserve">
-    <value>Sesión iniciada en {0}</value>
+    <value>Sesión iniciada como {0}</value>
   </data>
   <data name="signed_out" xml:space="preserve">
     <value>No conectado</value>
@@ -399,7 +399,7 @@
     <value>Básicamente ilimitado</value>
   </data>
   <data name="dislike_counter_credits_1" xml:space="preserve">
-    <value>No me gustan los datos del recuento proporcionado por el </value>
+    <value>El recuento de dislikes es proveído por la </value>
   </data>
   <data name="dislike_counter_credits_2" xml:space="preserve">
     <value>.</value>
