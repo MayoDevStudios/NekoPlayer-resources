@@ -65,22 +65,22 @@
     <value>Audio</value>
   </data>
   <data name="audio_language" xml:space="preserve">
-    <value>Pistas de audio (sólo disponibles)</value>
+    <value>Pistas de audio (solo disponibles)</value>
   </data>
   <data name="auto" xml:space="preserve">
     <value>Auto</value>
   </data>
   <data name="caption_disabled" xml:space="preserve">
-    <value>Deshabilitado</value>
+    <value>Desactivado</value>
   </data>
   <data name="caption_language" xml:space="preserve">
-    <value>Idioma de subtítulos cerrado (sólo disponible)</value>
+    <value>Idioma del subtítulo cerrado (solo disponible)</value>
   </data>
   <data name="disabled" xml:space="preserve">
     <value>Deshabilitado</value>
   </data>
   <data name="display" xml:space="preserve">
-    <value>Mostrar</value>
+    <value>Pantalla</value>
   </data>
   <data name="enabled" xml:space="preserve">
     <value>Activado</value>
@@ -92,7 +92,7 @@
     <value>Rellenar</value>
   </data>
   <data name="frame_limiter" xml:space="preserve">
-    <value>Frame limiter</value>
+    <value>Limitador de fotogramas</value>
   </data>
   <data name="fullscreen_entered" xml:space="preserve">
     <value>Presione F11 para salir de la pantalla completa.</value>
@@ -101,7 +101,7 @@
     <value>General</value>
   </data>
   <data name="google_translate" xml:space="preserve">
-    <value>Traducción de Google</value>
+    <value>Traductor de Google</value>
   </data>
   <data name="graphics" xml:space="preserve">
     <value>Gráficos</value>
@@ -113,13 +113,13 @@
     <value>Letterbox</value>
   </data>
   <data name="load_from_video_id" xml:space="preserve">
-    <value>Cargar desde el ID de vídeo</value>
+    <value>Cargar vídeo desde un ID</value>
   </data>
   <data name="load_video" xml:space="preserve">
     <value>Cargar vídeo</value>
   </data>
   <data name="master_volume" xml:space="preserve">
-    <value>Volumen principal</value>
+    <value>Volumen general</value>
   </data>
   <data name="minimise_on_focus_loss" xml:space="preserve">
     <value>Minimiza el reproductor de vídeo al cambiar a otra aplicación</value>
@@ -134,16 +134,16 @@
     <value>{0} • {1} suscriptores • Haga clic para ver el canal a través del navegador web externo.</value>
   </data>
   <data name="screen_mode" xml:space="preserve">
-    <value>Modo pantalla</value>
+    <value>Modo de pantalla</value>
   </data>
   <data name="screen_resolution" xml:space="preserve">
-    <value>Resolución de pantalla</value>
+    <value>Resolución</value>
   </data>
   <data name="selected_caption" xml:space="preserve">
-    <value>Título seleccionado: {0}</value>
+    <value>Subtítulo seleccionado: {0}</value>
   </data>
   <data name="selected_caption_auto_gen" xml:space="preserve">
-    <value>Leyenda seleccionada: {0} (autogenerado)</value>
+    <value>Subtítulo seleccionado: {0} (generado automáticamente)</value>
   </data>
   <data name="settings" xml:space="preserve">
     <value>Ajustes</value>
@@ -294,7 +294,7 @@
     <value>Escala vertical</value>
   </data>
   <data name="thumbnail_dim" xml:space="preserve">
-    <value>Thumbnail dim</value>
+    <value>Oscurecer miniatura del vídeo</value>
   </data>
   <data name="shrink_game_to_safe_area" xml:space="preserve">
     <value>Contraer aplicación para evitar cámaras y notches</value>
@@ -384,7 +384,7 @@
     <value>Pantalla completa</value>
   </data>
   <data name="vertical_sync" xml:space="preserve">
-    <value>VSync</value>
+    <value>Sincronización vertical</value>
   </data>
   <data name="refresh_rate_2x" xml:space="preserve">
     <value>Tasa de actualización 2x</value>
@@ -411,58 +411,58 @@
     <value>No se ha añadido ninguna descripción a este vídeo.</value>
   </data>
   <data name="view_version_desc" xml:space="preserve">
-    <value>View changelog for {0}</value>
+    <value>Ver registro de cambios para {0}</value>
     <comment>view_version_desc</comment>
   </data>
   <data name="render_type_automatic" xml:space="preserve">
-    <value>Automatic</value>
+    <value>Automático</value>
   </data>
   <data name="render_type_automatic_is_use" xml:space="preserve">
-    <value>Automatic ({0})</value>
+    <value>Automático ({0})</value>
   </data>
   <data name="use_system_cursor" xml:space="preserve">
-    <value>Always use system cursor</value>
+    <value>Siempre utilizar el cursor del sistema</value>
   </data>
   <data name="wasapi_label" xml:space="preserve">
-    <value>Use experimental audio mode</value>
+    <value>Usar modo de audio experimental</value>
   </data>
   <data name="wasapi_tooltip" xml:space="preserve">
-    <value>This will attempt to initialise the audio engine in a lower latency mode.</value>
+    <value>Esto intentará inicializar el motor de audio en un modo de baja latencia.</value>
   </data>
   <data name="output_device" xml:space="preserve">
-    <value>Output device</value>
+    <value>Dispositivo de salida de audio</value>
   </data>
   <data name="volume" xml:space="preserve">
-    <value>Volume</value>
+    <value>Volumen</value>
   </data>
   <data name="debug" xml:space="preserve">
-    <value>Debug</value>
+    <value>Depuración</value>
   </data>
   <data name="show_log_overlay" xml:space="preserve">
-    <value>Show log overlay</value>
+    <value>Mostrar superposición de registros</value>
   </data>
   <data name="bypass_ftb_render_pass" xml:space="preserve">
-    <value>Bypass front-to-back render pass</value>
+    <value>Saltarse la fase de renderizado del frente hacia atrás</value>
   </data>
   <data name="gc_mode" xml:space="preserve">
-    <value>GC mode</value>
+    <value>Modo del recolector de memoria</value>
   </data>
   <data name="clear_all_caches" xml:space="preserve">
-    <value>Clear all caches</value>
+    <value>Limpiar toda la cache</value>
   </data>
   <data name="load_from_playlist_id" xml:space="preserve">
-    <value>Load from playlist ID</value>
+    <value>Cargar lista de reproducción de un ID</value>
   </data>
   <data name="load_playlist" xml:space="preserve">
-    <value>Load Playlist</value>
+    <value>Cargar lista de reproducción</value>
   </data>
   <data name="playlists" xml:space="preserve">
-    <value>Playlists</value>
+    <value>Listas de reproducción</value>
   </data>
   <data name="previous_video" xml:space="preserve">
-    <value>Previous video</value>
+    <value>Vídeo anterior</value>
   </data>
   <data name="next_video" xml:space="preserve">
-    <value>Next video</value>
+    <value>Siguiente vídeo</value>
   </data>
 </root>
