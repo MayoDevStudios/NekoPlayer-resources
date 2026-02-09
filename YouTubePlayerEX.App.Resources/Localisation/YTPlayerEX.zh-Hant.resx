@@ -450,4 +450,19 @@
   <data name="clear_all_caches" xml:space="preserve">
     <value>Clear all caches</value>
   </data>
+  <data name="load_from_playlist_id" xml:space="preserve">
+    <value>Load from playlist ID</value>
+  </data>
+  <data name="load_playlist" xml:space="preserve">
+    <value>Load Playlist</value>
+  </data>
+  <data name="playlists" xml:space="preserve">
+    <value>Playlists</value>
+  </data>
+  <data name="previous_video" xml:space="preserve">
+    <value>Previous video</value>
+  </data>
+  <data name="next_video" xml:space="preserve">
+    <value>Next video</value>
+  </data>
 </root>
