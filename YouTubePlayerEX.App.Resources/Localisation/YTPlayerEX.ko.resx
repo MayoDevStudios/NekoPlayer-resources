@@ -404,6 +404,21 @@
   <data name="dislike_counter_credits_2" xml:space="preserve">
     <value>에 의해 제공됩니다.</value>
   </data>
+  <data name="mocha_chan_labs" xml:space="preserve">
+    <value>Mocha-chan's Labs</value>
+  </data>
+  <data name="crt_effect" xml:space="preserve">
+    <value>CRT Effect</value>
+  </data>
+  <data name="pixel_effect" xml:space="preserve">
+    <value>Pixel Effect</value>
+  </data>
+  <data name="mocha_chan_labs_desc" xml:space="preserve">
+    <value>The following features are experimental and may be removed or moved in the future.</value>
+  </data>
+  <data name="pixel_size" xml:space="preserve">
+    <value>Pixel Size</value>
+  </data>
   <data name="always_use_original_audio" xml:space="preserve">
     <value>항상 원본 오디오 트랙 사용</value>
   </data>
@@ -419,50 +434,5 @@
   </data>
   <data name="render_type_automatic_is_use" xml:space="preserve">
     <value>시스템이 자동으로 결정 ({0})</value>
-  </data>
-  <data name="use_system_cursor" xml:space="preserve">
-    <value>항상 시스템 마우스 포인터 사용</value>
-  </data>
-  <data name="wasapi_label" xml:space="preserve">
-    <value>실험적인 오디오 모드 사용</value>
-  </data>
-  <data name="wasapi_tooltip" xml:space="preserve">
-    <value>본 설정은 오디오 엔진을 저지연 모드로 초기화 시도를 할지에 대한 여부를 결정해요.</value>
-  </data>
-  <data name="output_device" xml:space="preserve">
-    <value>출력 장치</value>
-  </data>
-  <data name="volume" xml:space="preserve">
-    <value>음량</value>
-  </data>
-  <data name="debug" xml:space="preserve">
-    <value>디버그</value>
-  </data>
-  <data name="show_log_overlay" xml:space="preserve">
-    <value>로그 오버레이 표시</value>
-  </data>
-  <data name="bypass_ftb_render_pass" xml:space="preserve">
-    <value>front-to-back 렌더 패스 건너뛰기</value>
-  </data>
-  <data name="gc_mode" xml:space="preserve">
-    <value>GC 모드</value>
-  </data>
-  <data name="clear_all_caches" xml:space="preserve">
-    <value>모든 캐시 비우기</value>
-  </data>
-  <data name="load_from_playlist_id" xml:space="preserve">
-    <value>재생목록 ID로 불러오기</value>
-  </data>
-  <data name="load_playlist" xml:space="preserve">
-    <value>재생목록 불러오기</value>
-  </data>
-  <data name="playlists" xml:space="preserve">
-    <value>재생목록</value>
-  </data>
-  <data name="previous_video" xml:space="preserve">
-    <value>이전 동영상</value>
-  </data>
-  <data name="next_video" xml:space="preserve">
-    <value>다음 동영상</value>
   </data>
 </root>
