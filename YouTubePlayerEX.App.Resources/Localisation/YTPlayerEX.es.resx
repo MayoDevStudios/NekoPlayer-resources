@@ -404,6 +404,21 @@
   <data name="dislike_counter_credits_2" xml:space="preserve">
     <value>.</value>
   </data>
+  <data name="mocha_chan_labs" xml:space="preserve">
+    <value>Mocha-chan's Labs</value>
+  </data>
+  <data name="crt_effect" xml:space="preserve">
+    <value>CRT Effect</value>
+  </data>
+  <data name="pixel_effect" xml:space="preserve">
+    <value>Pixel Effect</value>
+  </data>
+  <data name="mocha_chan_labs_desc" xml:space="preserve">
+    <value>The following features are experimental and may be removed or moved in the future.</value>
+  </data>
+  <data name="pixel_size" xml:space="preserve">
+    <value>Pixel Size</value>
+  </data>
   <data name="always_use_original_audio" xml:space="preserve">
     <value>Usar siempre audio original</value>
   </data>
@@ -419,50 +434,5 @@
   </data>
   <data name="render_type_automatic_is_use" xml:space="preserve">
     <value>Automático ({0})</value>
-  </data>
-  <data name="use_system_cursor" xml:space="preserve">
-    <value>Siempre utilizar el cursor del sistema</value>
-  </data>
-  <data name="wasapi_label" xml:space="preserve">
-    <value>Usar modo de audio experimental</value>
-  </data>
-  <data name="wasapi_tooltip" xml:space="preserve">
-    <value>Esto intentará inicializar el motor de audio en un modo de baja latencia.</value>
-  </data>
-  <data name="output_device" xml:space="preserve">
-    <value>Dispositivo de salida de audio</value>
-  </data>
-  <data name="volume" xml:space="preserve">
-    <value>Volumen</value>
-  </data>
-  <data name="debug" xml:space="preserve">
-    <value>Depuración</value>
-  </data>
-  <data name="show_log_overlay" xml:space="preserve">
-    <value>Mostrar superposición de registros</value>
-  </data>
-  <data name="bypass_ftb_render_pass" xml:space="preserve">
-    <value>Saltarse la fase de renderizado del frente hacia atrás</value>
-  </data>
-  <data name="gc_mode" xml:space="preserve">
-    <value>Modo del recolector de memoria</value>
-  </data>
-  <data name="clear_all_caches" xml:space="preserve">
-    <value>Limpiar toda la cache</value>
-  </data>
-  <data name="load_from_playlist_id" xml:space="preserve">
-    <value>Cargar lista de reproducción de un ID</value>
-  </data>
-  <data name="load_playlist" xml:space="preserve">
-    <value>Cargar lista de reproducción</value>
-  </data>
-  <data name="playlists" xml:space="preserve">
-    <value>Listas de reproducción</value>
-  </data>
-  <data name="previous_video" xml:space="preserve">
-    <value>Vídeo anterior</value>
-  </data>
-  <data name="next_video" xml:space="preserve">
-    <value>Siguiente vídeo</value>
   </data>
 </root>
