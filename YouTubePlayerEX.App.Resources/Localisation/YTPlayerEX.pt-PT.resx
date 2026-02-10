@@ -404,21 +404,6 @@
   <data name="dislike_counter_credits_2" xml:space="preserve">
     <value>.</value>
   </data>
-  <data name="mocha_chan_labs" xml:space="preserve">
-    <value>Laboratório de Mocha-chan</value>
-  </data>
-  <data name="crt_effect" xml:space="preserve">
-    <value>Efeito CRT</value>
-  </data>
-  <data name="pixel_effect" xml:space="preserve">
-    <value>Efeito de Pixel</value>
-  </data>
-  <data name="mocha_chan_labs_desc" xml:space="preserve">
-    <value>Os seguintes recursos são experimentais e podem ser removidos ou movidos no futuro.</value>
-  </data>
-  <data name="pixel_size" xml:space="preserve">
-    <value>Tamanho do Pixel</value>
-  </data>
   <data name="always_use_original_audio" xml:space="preserve">
     <value>Sempre usar áudio original</value>
   </data>
@@ -434,5 +419,50 @@
   </data>
   <data name="render_type_automatic_is_use" xml:space="preserve">
     <value>Automatic ({0})</value>
+  </data>
+  <data name="use_system_cursor" xml:space="preserve">
+    <value>Always use system cursor</value>
+  </data>
+  <data name="wasapi_label" xml:space="preserve">
+    <value>Use experimental audio mode</value>
+  </data>
+  <data name="wasapi_tooltip" xml:space="preserve">
+    <value>This will attempt to initialise the audio engine in a lower latency mode.</value>
+  </data>
+  <data name="output_device" xml:space="preserve">
+    <value>Output device</value>
+  </data>
+  <data name="volume" xml:space="preserve">
+    <value>Volume</value>
+  </data>
+  <data name="debug" xml:space="preserve">
+    <value>Debug</value>
+  </data>
+  <data name="show_log_overlay" xml:space="preserve">
+    <value>Show log overlay</value>
+  </data>
+  <data name="bypass_ftb_render_pass" xml:space="preserve">
+    <value>Bypass front-to-back render pass</value>
+  </data>
+  <data name="gc_mode" xml:space="preserve">
+    <value>GC mode</value>
+  </data>
+  <data name="clear_all_caches" xml:space="preserve">
+    <value>Clear all caches</value>
+  </data>
+  <data name="load_from_playlist_id" xml:space="preserve">
+    <value>Load from playlist ID</value>
+  </data>
+  <data name="load_playlist" xml:space="preserve">
+    <value>Load Playlist</value>
+  </data>
+  <data name="playlists" xml:space="preserve">
+    <value>Playlists</value>
+  </data>
+  <data name="previous_video" xml:space="preserve">
+    <value>Previous video</value>
+  </data>
+  <data name="next_video" xml:space="preserve">
+    <value>Next video</value>
   </data>
 </root>
