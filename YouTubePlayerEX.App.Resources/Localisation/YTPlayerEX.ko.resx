@@ -465,4 +465,8 @@
   <data name="next_video" xml:space="preserve">
     <value>다음 동영상</value>
   </data>
+  <data name="hw_acceleration_enabled_note" xml:space="preserve">
+    <value>GPU를 통한 하드웨어 가속을 켰습니다. 만약 문제가 발생했다면, 당분간은 하드웨어 가속은 비활성화된 상태로 유지해 주세요.</value>
+    <comment>hw_acceleration_enabled_note</comment>
+  </data>
 </root>
