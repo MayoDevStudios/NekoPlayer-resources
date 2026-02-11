@@ -465,4 +465,8 @@
   <data name="next_video" xml:space="preserve">
     <value>Next video</value>
   </data>
+  <data name="hw_acceleration_enabled_note" xml:space="preserve">
+    <value>Hardware acceleration via GPU is enabled. If you experience any issues, please keep hardware acceleration disabled for now.</value>
+    <comment>hw_acceleration_enabled_note</comment>
+  </data>
 </root>
