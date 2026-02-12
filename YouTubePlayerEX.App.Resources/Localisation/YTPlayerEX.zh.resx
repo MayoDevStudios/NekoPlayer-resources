@@ -511,7 +511,4 @@
   <data name="distortion_volume" xml:space="preserve">
     <value>Distortion volume</value>
   </data>
-  <data name="distortion_drive" xml:space="preserve">
-    <value>Distortion drive</value>
-  </data>
 </root>
