@@ -469,4 +469,40 @@
     <value>Hardware acceleration via GPU is enabled. If you experience any issues, please keep hardware acceleration disabled for now.</value>
     <comment>hw_acceleration_enabled_note</comment>
   </data>
+  <data name="audio_effects" xml:space="preserve">
+    <value>Audio effects (Beta)</value>
+  </data>
+  <data name="reverb" xml:space="preserve">
+    <value>Reverb</value>
+  </data>
+  <data name="reverb_wet_mix" xml:space="preserve">
+    <value>Wet mix</value>
+  </data>
+  <data name="reverb_stereo_width" xml:space="preserve">
+    <value>Stereo width</value>
+  </data>
+  <data name="reverb_high_frequency_damping" xml:space="preserve">
+    <value>High frequency damping</value>
+  </data>
+  <data name="reverb_room_size" xml:space="preserve">
+    <value>Room size</value>
+  </data>
+  <data name="audio_effect_rotate_rate" xml:space="preserve">
+    <value>Rotate rate</value>
+  </data>
+  <data name="audio_effect_rotate_enabled" xml:space="preserve">
+    <value>3D rotate effect</value>
+  </data>
+  <data name="echo_dry_mix" xml:space="preserve">
+    <value>Dry mix</value>
+  </data>
+  <data name="echo_feedback" xml:space="preserve">
+    <value>Feedback</value>
+  </data>
+  <data name="echo_delay" xml:space="preserve">
+    <value>Delay</value>
+  </data>
+  <data name="echo_effect" xml:space="preserve">
+    <value>Echo</value>
+  </data>
 </root>
