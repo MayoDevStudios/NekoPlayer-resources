@@ -505,4 +505,13 @@
   <data name="echo_effect" xml:space="preserve">
     <value>Echo</value>
   </data>
+  <data name="distortion_effect" xml:space="preserve">
+    <value>Distortion</value>
+  </data>
+  <data name="distortion_volume" xml:space="preserve">
+    <value>Distortion volume</value>
+  </data>
+  <data name="distortion_drive" xml:space="preserve">
+    <value>Distortion drive</value>
+  </data>
 </root>
