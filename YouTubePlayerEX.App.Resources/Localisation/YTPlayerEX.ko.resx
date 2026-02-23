@@ -568,4 +568,49 @@
   <data name="gpt_summarize_prompt" xml:space="preserve">
     <value>{0} 이 동영상 요약해줘</value>
   </data>
+  <data name="public" xml:space="preserve">
+    <value>공개</value>
+  </data>
+  <data name="unlisted" xml:space="preserve">
+    <value>일부 공개</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>비공개</value>
+  </data>
+  <data name="save" xml:space="preserve">
+    <value>저장</value>
+  </data>
+  <data name="save_or_remove" xml:space="preserve">
+    <value>저장 또는 삭제</value>
+  </data>
+  <data name="save_location" xml:space="preserve">
+    <value>저장 위치</value>
+  </data>
+  <data name="add_new_playlist" xml:space="preserve">
+    <value>새 재생목록</value>
+  </data>
+  <data name="privacy_status" xml:space="preserve">
+    <value>공개 상태</value>
+  </data>
+  <data name="title_placeholder" xml:space="preserve">
+    <value>제목을 선택하세요.</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>제목</value>
+  </data>
+  <data name="create" xml:space="preserve">
+    <value>만들기</value>
+  </data>
+  <data name="video_saved_to_playlist" xml:space="preserve">
+    <value>동영상 {0}을(를) 재생목록 {1}에 추가했어요.</value>
+  </data>
+  <data name="video_removed_from_playlist" xml:space="preserve">
+    <value>동영상 {0}을(를) 재생목록 {1}에서 삭제했어요.</value>
+  </data>
+  <data name="menu" xml:space="preserve">
+    <value>메뉴</value>
+  </data>
+  <data name="exit" xml:space="preserve">
+    <value>종료</value>
+  </data>
 </root>
