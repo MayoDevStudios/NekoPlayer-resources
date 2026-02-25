@@ -613,4 +613,7 @@
   <data name="exit" xml:space="preserve">
     <value>종료</value>
   </data>
+  <data name="audio_normalization" xml:space="preserve">
+    <value>안정적인 볼륨</value>
+  </data>
 </root>
