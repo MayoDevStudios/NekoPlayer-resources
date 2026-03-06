@@ -3,20 +3,20 @@
         <TargetFramework>net8.0</TargetFramework>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 		<NoWarn>$(NoWarn);1591</NoWarn>
-		<Title>YouTube Player EX Resources</Title>
-		<Product>YouTube Player EX Resources</Product>
+		<Title>NekoPlayer Resources</Title>
+		<Product>NekoPlayer Resources</Product>
 		<Company>BoomboxRapsody</Company>
     </PropertyGroup>
 	<PropertyGroup Label="Nuget">
-		<Title>YouTube Player EX Resources</Title>
+		<Title>NekoPlayer Resources</Title>
 		<PackageId>YouTubePlayerEX.App.Resources</PackageId>
 		<Authors>BoomboxRapsody</Authors>
-		<PackageLicenseUrl>https://github.com/BoomboxRapsody/YouTubePlayerEX-resources/blob/master/LICENCE.md</PackageLicenseUrl>
-		<PackageProjectUrl>https://github.com/BoomboxRapsody/YouTubePlayerEX-resources</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/BoomboxRapsody/YouTubePlayerEX-resources</RepositoryUrl>
+		<PackageLicenseUrl>https://github.com/BoomboxRapsody/NekoPlayer-resources/blob/master/LICENCE.md</PackageLicenseUrl>
+		<PackageProjectUrl>https://github.com/BoomboxRapsody/NekoPlayer-resources</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/BoomboxRapsody/NekoPlayer-resources</RepositoryUrl>
 		<PackageReleaseNotes>Automated release.</PackageReleaseNotes>
 		<copyright>Copyright (c) 2026 BoomboxRapsody</copyright>
-		<PackageTags>YouTubePlayerEX app resources</PackageTags>
+		<PackageTags>NekoPlayer app resources</PackageTags>
   </PropertyGroup>
   <ItemGroup>
     <EmbeddedResource Include="Fonts\**\*" />

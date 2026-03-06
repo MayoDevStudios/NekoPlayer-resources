@@ -12,8 +12,8 @@ jobs:
       -
         name: Submit pending deployment notification
         run: |
-          export TITLE="Pending YouTubePlayerEX-resources Production Deployment: $GITHUB_REF_NAME"
-          export URL="https://github.com/BoomboxRapsody/YouTubePlayerEX-resources/actions/runs/$GITHUB_RUN_ID"
+          export TITLE="Pending NekoPlayer-resources Production Deployment: $GITHUB_REF_NAME"
+          export URL="https://github.com/BoomboxRapsody/NekoPlayer-resources/actions/runs/$GITHUB_RUN_ID"
           export DESCRIPTION="Awaiting approval for building NuGet packages for tag $GITHUB_REF_NAME:
           [View Workflow Run]($URL)"
           export ACTOR_ICON="https://avatars.githubusercontent.com/u/$GITHUB_ACTOR_ID"
@@ -56,12 +56,12 @@ jobs:
           dotnet-version: "8.0.x"
 
       - name: Pack
-        run: dotnet pack -c Release YouTubePlayerEX.App.Resources /p:Version=${{ github.ref_name }} /p:GenerateDocumentationFile=true /p:IncludeSymbols=true /p:SymbolPackageFormat=snupkg -o ${{steps.artifactsPath.outputs.nuget_artifacts}}
+        run: dotnet pack -c Release NekoPlayer.App.Resources /p:Version=${{ github.ref_name }} /p:GenerateDocumentationFile=true /p:IncludeSymbols=true /p:SymbolPackageFormat=snupkg -o ${{steps.artifactsPath.outputs.nuget_artifacts}}
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: YouTubePlayerEX-resources
+          name: NekoPlayer-resources
           path: |
             ${{steps.artifactsPath.outputs.nuget_artifacts}}/*.nupkg
             ${{steps.artifactsPath.outputs.nuget_artifacts}}/*.snupkg

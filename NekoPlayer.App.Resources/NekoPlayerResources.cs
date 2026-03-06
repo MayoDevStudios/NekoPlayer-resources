@@ -3,10 +3,10 @@
 
 using System.Reflection;
 
-namespace YouTubePlayerEX.App.Resources
+namespace NekoPlayer.App.Resources
 {
     public static class YouTubePlayerEXResources
     {
-        public static Assembly ResourceAssembly => typeof(YouTubePlayerEXResources).Assembly;
+        public static Assembly ResourceAssembly => typeof(NekoPlayerResources).Assembly;
     }
 }

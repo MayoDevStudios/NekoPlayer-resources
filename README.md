@@ -1,4 +1,4 @@
-# YouTube Player EX Resources
+# NekoPlayer Resources
 
 [![dev chat](https://discordapp.com/api/guilds/1474931183854026812/widget.png?style=shield)](https://discord.gg/UZWDqQ29ch)
 
