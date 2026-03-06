@@ -2,11 +2,11 @@
 
 [![dev chat](https://discordapp.com/api/guilds/1474931183854026812/widget.png?style=shield)](https://discord.gg/UZWDqQ29ch)
 
-Assets used by YouTube Player EX.
+Assets used by NekoPlayer.
 
 ## Requirements
 
-This is a dependency of [YouTube Player EX](https://github.com/BoomboxRapsody/YouTubePlayerEX) and intended to be used as a NuGet package only.
+This is a dependency of [NekoPlayer](https://github.com/BoomboxRapsody/YouTubePlayerEX) and intended to be used as a NuGet package only.
 
 ## Licence
 
