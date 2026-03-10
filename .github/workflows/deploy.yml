@@ -13,7 +13,7 @@ jobs:
         name: Submit pending deployment notification
         run: |
           export TITLE="Pending NekoPlayer-resources Production Deployment: $GITHUB_REF_NAME"
-          export URL="https://github.com/BoomboxRapsody/NekoPlayer-resources/actions/runs/$GITHUB_RUN_ID"
+          export URL="https://github.com/MayoDevStudios/NekoPlayer-resources/actions/runs/$GITHUB_RUN_ID"
           export DESCRIPTION="Awaiting approval for building NuGet packages for tag $GITHUB_REF_NAME:
           [View Workflow Run]($URL)"
           export ACTOR_ICON="https://avatars.githubusercontent.com/u/$GITHUB_ACTOR_ID"

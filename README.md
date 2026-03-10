@@ -6,7 +6,7 @@ Assets used by NekoPlayer.
 
 ## Requirements
 
-This is a dependency of [NekoPlayer](https://github.com/BoomboxRapsody/NekoPlayer) and intended to be used as a NuGet package only.
+This is a dependency of [NekoPlayer](https://github.com/MayoDevStudios/NekoPlayer) and intended to be used as a NuGet package only.
 
 ## Licence
 
