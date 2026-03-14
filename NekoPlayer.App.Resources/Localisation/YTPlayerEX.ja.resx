@@ -700,4 +700,19 @@
   <data name="profile_image_shape" xml:space="preserve">
     <value>プロファイル画像形状</value>
   </data>
+  <data name="sort_title" xml:space="preserve">
+    <value>並べ替え</value>
+  </data>
+  <data name="sort_top" xml:space="preserve">
+    <value>人気順</value>
+  </data>
+  <data name="sort_newest" xml:space="preserve">
+    <value>新しい順</value>
+  </data>
+  <data name="no_comments" xml:space="preserve">
+    <value>コメントがありません···</value>
+  </data>
+  <data name="no_comments_desc" xml:space="preserve">
+    <value>他に何かありますか？</value>
+  </data>
 </root>

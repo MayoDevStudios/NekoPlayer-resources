@@ -700,4 +700,22 @@
   <data name="profile_image_shape" xml:space="preserve">
     <value>프로필 이미지 모양</value>
   </data>
+  <data name="sort_title" xml:space="preserve">
+    <value>정렬 기준</value>
+  </data>
+  <data name="sort_top" xml:space="preserve">
+    <value>인기순</value>
+  </data>
+  <data name="sort_newest" xml:space="preserve">
+    <value>최신순</value>
+  </data>
+  <data name="user_interface" xml:space="preserve">
+    <value>사용자 인터페이스</value>
+  </data>
+  <data name="no_comments" xml:space="preserve">
+    <value>댓글이 없어요...</value>
+  </data>
+  <data name="no_comments_desc" xml:space="preserve">
+    <value>으아앙! 스피키 네르지 마세요!!!</value>
+  </data>
 </root>
