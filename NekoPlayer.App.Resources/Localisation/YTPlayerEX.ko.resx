@@ -724,4 +724,10 @@
   <data name="system_sound_mute_desc" xml:space="preserve">
     <value>이 설정은 NekoPlayer 및 기타 앱, 시스템 사운드를 음소거합니다.</value>
   </data>
+  <data name="report_bugs" xml:space="preserve">
+    <value>문제 제보하기</value>
+  </data>
+  <data name="report_bugs_desc" xml:space="preserve">
+    <value>앱에서 발생한 문제를 개발자에게 제보하실 수 있어요.</value>
+  </data>
 </root>

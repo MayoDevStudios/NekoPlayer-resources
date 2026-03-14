@@ -721,4 +721,10 @@
   <data name="system_sound_mute_desc" xml:space="preserve">
     <value>この設定は、NekoPlayer サウンドやその他のアプリケーション、システムサウンドをミュートします。</value>
   </data>
+  <data name="report_bugs" xml:space="preserve">
+    <value>問題報告</value>
+  </data>
+  <data name="report_bugs_desc" xml:space="preserve">
+    <value>アプリの問題を開発者に報告します。</value>
+  </data>
 </root>
