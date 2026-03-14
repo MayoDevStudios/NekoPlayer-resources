@@ -715,4 +715,10 @@
   <data name="no_comments_desc" xml:space="preserve">
     <value>他に何かありますか？</value>
   </data>
+  <data name="system_sound_mute" xml:space="preserve">
+    <value>システム音ミュート</value>
+  </data>
+  <data name="system_sound_mute_desc" xml:space="preserve">
+    <value>この設定は、NekoPlayer サウンドやその他のアプリケーション、システムサウンドをミュートします。</value>
+  </data>
 </root>

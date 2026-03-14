@@ -718,4 +718,10 @@
   <data name="no_comments_desc" xml:space="preserve">
     <value>으아앙! 스피키 네르지 마세요!!!</value>
   </data>
+  <data name="system_sound_mute" xml:space="preserve">
+    <value>시스템 사운드 음소거</value>
+  </data>
+  <data name="system_sound_mute_desc" xml:space="preserve">
+    <value>이 설정은 NekoPlayer 및 기타 앱, 시스템 사운드를 음소거합니다.</value>
+  </data>
 </root>
