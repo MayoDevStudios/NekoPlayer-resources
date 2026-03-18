@@ -727,4 +727,7 @@
   <data name="report_bugs_desc" xml:space="preserve">
     <value>アプリの問題を開発者に報告します。</value>
   </data>
+  <data name="discord_not_installed" xml:space="preserve">
+    <value>Discordはインストールされていません。 Discordをインストールして、あなたの活動を友達と共有しましょう！</value>
+  </data>
 </root>
