@@ -742,4 +742,10 @@
   <data name="release_stream_beta" xml:space="preserve">
     <value>베타 (불안정)</value>
   </data>
+  <data name="video_quality_with_label" xml:space="preserve">
+    <value>동영상 화질 ({0})</value>
+  </data>
+  <data name="audio_quality_with_label" xml:space="preserve">
+    <value>오디오 음질 ({0})</value>
+  </data>
 </root>
