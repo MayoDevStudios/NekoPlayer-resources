@@ -566,7 +566,7 @@
     <value>クローズドキャプション</value>
   </data>
   <data name="summarize_via_gpt" xml:space="preserve">
-    <value>ChatGPT経由で要約します</value>
+    <value>要約ビデオ</value>
   </data>
   <data name="gpt_summarize_prompt" xml:space="preserve">
     <value>{0} このビデオを要約します</value>
@@ -737,12 +737,15 @@
     <value>安定放出</value>
   </data>
   <data name="release_stream_beta" xml:space="preserve">
-    <value>ベータ (不安定)</value>
+    <value>夜間ビルド（不安定）</value>
   </data>
   <data name="video_quality_with_label" xml:space="preserve">
     <value>ビデオ品質（{0}）</value>
   </data>
   <data name="audio_quality_with_label" xml:space="preserve">
     <value>音質（{0}）</value>
+  </data>
+  <data name="jump_to" xml:space="preserve">
+    <value>{0}にジャンプします</value>
   </data>
 </root>

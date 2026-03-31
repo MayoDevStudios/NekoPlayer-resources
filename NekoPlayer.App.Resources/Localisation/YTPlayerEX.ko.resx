@@ -566,7 +566,7 @@
     <value>자막</value>
   </data>
   <data name="summarize_via_gpt" xml:space="preserve">
-    <value>ChatGPT를 통해 요약</value>
+    <value>동영상 요약</value>
   </data>
   <data name="gpt_summarize_prompt" xml:space="preserve">
     <value>{0} 이 동영상 요약해줘</value>
@@ -740,12 +740,15 @@
     <value>안정 빌드</value>
   </data>
   <data name="release_stream_beta" xml:space="preserve">
-    <value>베타 (불안정)</value>
+    <value>Nightly 빌드 (불안정)</value>
   </data>
   <data name="video_quality_with_label" xml:space="preserve">
     <value>동영상 화질 ({0})</value>
   </data>
   <data name="audio_quality_with_label" xml:space="preserve">
     <value>오디오 음질 ({0})</value>
+  </data>
+  <data name="jump_to" xml:space="preserve">
+    <value>{0} 부분으로 이동</value>
   </data>
 </root>
