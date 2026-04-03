@@ -748,4 +748,10 @@
   <data name="jump_to" xml:space="preserve">
     <value>{0}にジャンプします</value>
   </data>
+  <data name="edit_playlist" xml:space="preserve">
+    <value>編集プレイリスト</value>
+  </data>
+  <data name="apply" xml:space="preserve">
+    <value>適用</value>
+  </data>
 </root>
