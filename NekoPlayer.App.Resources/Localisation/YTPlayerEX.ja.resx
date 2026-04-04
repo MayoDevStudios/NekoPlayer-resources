@@ -330,7 +330,7 @@
     <value>コメントを追加しました。</value>
   </data>
   <data name="comment_with" xml:space="preserve">
-    <value>{0} でコメントを書く</value>
+    <value>コメントを{0}で書き込みます···</value>
   </data>
   <data name="signed_in" xml:space="preserve">
     <value>{0} にサインインしました</value>
