@@ -131,7 +131,7 @@
     <value>속도를 조정할 때 음정도 같이 조절</value>
   </data>
   <data name="profile_image_tooltip" xml:space="preserve">
-    <value>{0} • 구독자 {1}명 • 여기를 클릭하여 외부 브라우저에서 채널 링크를 엽니다.</value>
+    <value>{0} • 구독자 {1}명</value>
   </data>
   <data name="screen_mode" xml:space="preserve">
     <value>화면 모드</value>
@@ -774,5 +774,8 @@
   </data>
   <data name="download_completed" xml:space="preserve">
     <value>다운로드가 완료되었습니다.</value>
+  </data>
+  <data name="profile_image_tooltip_disabled" xml:space="preserve">
+    <value>{0} • 구독자 {1}명</value>
   </data>
 </root>

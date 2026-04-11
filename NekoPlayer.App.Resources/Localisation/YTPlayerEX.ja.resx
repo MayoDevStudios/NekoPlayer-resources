@@ -131,7 +131,7 @@
     <value>変速時ピッチ調整</value>
   </data>
   <data name="profile_image_tooltip" xml:space="preserve">
-    <value>{0} • チャンネル登録者数 {1}人 • 外部 Web ブラウザを介してチャネルを表示するには、クリックします。</value>
+    <value>{0} • チャンネル登録者数 {1}人</value>
   </data>
   <data name="screen_mode" xml:space="preserve">
     <value>画面モード</value>
