@@ -757,4 +757,22 @@
   <data name="apply" xml:space="preserve">
     <value>적용</value>
   </data>
+  <data name="download_video" xml:space="preserve">
+    <value>동영상 다운로드</value>
+  </data>
+  <data name="download" xml:space="preserve">
+    <value>다운로드</value>
+  </data>
+  <data name="downloading_video_stream" xml:space="preserve">
+    <value>동영상 스트림 다운로드 중: {0}</value>
+  </data>
+  <data name="downloading_audio_stream" xml:space="preserve">
+    <value>오디오 스트림 다운로드 중: {0}</value>
+  </data>
+  <data name="merging_stream" xml:space="preserve">
+    <value>스트림 합치는 중...</value>
+  </data>
+  <data name="download_completed" xml:space="preserve">
+    <value>다운로드가 완료되었습니다.</value>
+  </data>
 </root>

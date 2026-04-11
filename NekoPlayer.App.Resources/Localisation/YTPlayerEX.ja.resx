@@ -754,4 +754,22 @@
   <data name="apply" xml:space="preserve">
     <value>適用</value>
   </data>
+  <data name="download_video" xml:space="preserve">
+    <value>ビデオダウンロード</value>
+  </data>
+  <data name="download" xml:space="preserve">
+    <value>ダウンロード</value>
+  </data>
+  <data name="downloading_video_stream" xml:space="preserve">
+    <value>ビデオストリームをダウンロードしています。 {0}</value>
+  </data>
+  <data name="downloading_audio_stream" xml:space="preserve">
+    <value>オーディオストリームをダウンロードしています。 {0}</value>
+  </data>
+  <data name="merging_stream" xml:space="preserve">
+    <value>ストリームをマージしています···</value>
+  </data>
+  <data name="download_completed" xml:space="preserve">
+    <value>ダウンロードが完了しました。</value>
+  </data>
 </root>
